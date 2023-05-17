@@ -1,0 +1,62 @@
+body{
+    background: rgb(44,35,26);
+background: linear-gradient(110deg, rgba(44,35,26,1) 0%, rgba(216,181,149,1) 74%);
+}
+.list{
+    font-style: italic;
+}
+#information{
+    height: auto;
+    align-content: center;
+}
+.upperPanel{
+    width: 70%;
+    display: inline-block;
+    margin: 10px;
+}
+#header{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
+#photo, #goods{
+    width: 50%;
+    float: left;
+    font-size: 20px;
+}
+img{
+    width: 55%;
+    height: 55%;
+    margin: 5px;
+    box-shadow: 1px 1px 3px 2px #000;
+}
+div{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, h2, h3, p, a{
+    color: #fff;
+    font-size: 23px;
+    margin: 5px;
+}
+html{
+    height: 245%;
+}
+li{
+    margin: 8px;
+    color: #fff;
+}
+.border{
+    margin: 2px;
+    border: 1px solid #803d00;
+    border-radius: 6px;
+}
+.price{
+    color: #954700;
+}
+.centered{
+    margin: 10px auto 20px;
+    display: block;
+}
